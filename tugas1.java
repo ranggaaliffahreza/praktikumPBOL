@@ -10,7 +10,6 @@ public class tugas1{
         System.out.print("Masukkan NIM: ");
         String nim = scanner.nextLine();
 
-        System.out.println("\nOutput:");
         System.out.println("Nama: " + nama);
         System.out.println("NIM: " + nim);
         

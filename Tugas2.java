@@ -9,7 +9,7 @@ public class Tugas2 {
         int pilihan = 0;
 
         while (pilihan != 5) {
-            System.out.println("\nMenu:");
+            System.out.println("\nPilih Opsi :");
             System.out.println("1. Tambah Mahasiswa");
             System.out.println("2. Baca Mahasiswa");
             System.out.println("3. Update Mahasiswa");
